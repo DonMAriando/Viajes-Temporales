@@ -1,0 +1,46 @@
+{
+  "textures": [
+    {"id": "coast_sand_01", "name": "sand", "resolution": "2k"},
+    {"id": "large_sandstone_blocks", "name": "limestone", "resolution": "2k"},
+    {"id": "clay_plaster", "name": "plaster", "resolution": "2k"},
+    {"id": "rough_linen", "name": "linen", "resolution": "2k"},
+    {"id": "oak_wood_planks", "name": "wood", "resolution": "2k"},
+    {"id": "bark_brown_02", "name": "bark", "resolution": "2k"},
+    {"id": "metal_plate", "name": "metal", "resolution": "2k"}
+  ],
+  "models": [
+    {"id": "ceramic_vase_02", "name": "pottery", "resolution": "1k"},
+    {"id": "ceramic_vase_03", "name": "vase", "resolution": "1k"},
+    {"id": "wicker_basket_01", "name": "basket", "resolution": "1k"},
+    {"id": "wicker_basket_02", "name": "basket_round", "resolution": "1k"},
+    {"id": "sand_rocks_small_01", "name": "small_rocks", "resolution": "1k"},
+    {"id": "coast_rocks_02", "name": "rocks", "resolution": "1k"},
+    {"id": "wooden_crate_01", "name": "crate", "resolution": "1k"}
+  ],
+  "archives": [
+    {
+      "id": "makehuman_system_assets",
+      "path": ".asset_sources/makehuman/system_assets.zip",
+      "url": "https://files.makehumancommunity.org/asset_packs/makehuman_system_assets/makehuman_system_assets_cc0.zip",
+      "license": "CC0-1.0",
+      "source": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+      "members": [
+        {"entry": "skins/young_african_male/young_darkskinned_male_diffuse.png", "path": "assets/textures/characters/skin_dark.png"},
+        {"entry": "skins/young_caucasian_male/young_lightskinned_male_diffuse.png", "path": "assets/textures/characters/skin_light.png"}
+      ]
+    }
+  ],
+  "sources": [
+    {"name": "human_base", "path": ".asset_sources/makehuman/base.obj", "url": "https://raw.githubusercontent.com/makehumancommunity/makehuman/master/makehuman/data/3dobjs/base.obj", "license": "CC0-1.0"},
+    {"name": "human_rig", "path": ".asset_sources/makehuman/rig.json", "url": "https://raw.githubusercontent.com/makehumancommunity/makehuman/master/makehuman/data/rigs/default.mhskel", "license": "CC0-1.0"},
+    {"name": "human_weights", "path": ".asset_sources/makehuman/weights.json", "url": "https://raw.githubusercontent.com/makehumancommunity/makehuman/master/makehuman/data/rigs/default_weights.mhw", "license": "CC0-1.0"},
+    {"name": "human_morph", "path": ".asset_sources/makehuman/male.target", "url": "https://raw.githubusercontent.com/makehumancommunity/makehuman/master/makehuman/data/targets/macrodetails/african-male-young.target", "license": "CC0-1.0"},
+    {"name": "human_eyes", "path": ".asset_sources/makehuman/eyes.obj", "url": "https://raw.githubusercontent.com/makehumancommunity/makehuman/master/makehuman/data/eyes/high-poly/high-poly.obj", "license": "CC0-1.0"},
+    {"name": "eye_texture", "path": "assets/textures/characters/brown_eye.png", "url": "https://raw.githubusercontent.com/makehumancommunity/makehuman/master/makehuman/data/eyes/materials/brown_eye.png", "license": "CC0-1.0"},
+    {"name": "makehuman_license", "path": "assets/licenses/makehuman-cc0.txt", "url": "https://raw.githubusercontent.com/makehumancommunity/makehuman/master/LICENSE.ASSETS.md", "license": "CC0-1.0"},
+    {"name": "manrope", "path": "assets/fonts/manrope.ttf", "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/manrope/Manrope%5Bwght%5D.ttf", "license": "OFL-1.1"},
+    {"name": "manrope_license", "path": "assets/licenses/manrope-ofl.txt", "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/manrope/OFL.txt", "license": "OFL-1.1"},
+    {"name": "cinzel", "path": "assets/fonts/cinzel.ttf", "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/cinzel/Cinzel%5Bwght%5D.ttf", "license": "OFL-1.1"},
+    {"name": "cinzel_license", "path": "assets/licenses/cinzel-ofl.txt", "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/cinzel/OFL.txt", "license": "OFL-1.1"}
+  ]
+}

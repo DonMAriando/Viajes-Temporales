@@ -1,0 +1,661 @@
+{
+  "version": 1,
+  "license_policy": "CC0-1.0 assets; OFL-1.1 fonts",
+  "assets": [
+    {
+      "id": "coast_sand_01",
+      "name": "sand",
+      "type": "textures",
+      "license": "CC0-1.0",
+      "source": "https://polyhaven.com/a/coast_sand_01",
+      "files": [
+        {
+          "path": "assets/textures/sand/textures/coast_sand_01_nor_gl_2k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/coast_sand_01/coast_sand_01_nor_gl_2k.jpg",
+          "size": 4630126,
+          "sha256": "e5b1430c751727c8ab0332adfd8960c48342936146de258aa9b7736630cdbb62"
+        },
+        {
+          "path": "assets/textures/sand/textures/coast_sand_01_diff_2k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/coast_sand_01/coast_sand_01_diff_2k.jpg",
+          "size": 3552676,
+          "sha256": "e1c37ea8b4282fda612b0584d864ca4eef2da28c2fa9f3930cad9209414eb979"
+        },
+        {
+          "path": "assets/textures/sand/textures/coast_sand_01_rough_2k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/coast_sand_01/coast_sand_01_rough_2k.jpg",
+          "size": 1389332,
+          "sha256": "93caeb7332d1593702d97a59040ce178a27c9d705b30c55413e0d2507e09a762"
+        }
+      ]
+    },
+    {
+      "id": "large_sandstone_blocks",
+      "name": "limestone",
+      "type": "textures",
+      "license": "CC0-1.0",
+      "source": "https://polyhaven.com/a/large_sandstone_blocks",
+      "files": [
+        {
+          "path": "assets/textures/limestone/textures/large_sandstone_blocks_diff_2k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/large_sandstone_blocks/large_sandstone_blocks_diff_2k.jpg",
+          "size": 2700600,
+          "sha256": "0555a72f01754bb90d6ee8f5dffb92557cdf2dc13c4271e813e86114ce95cd87"
+        },
+        {
+          "path": "assets/textures/limestone/textures/large_sandstone_blocks_nor_gl_2k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/large_sandstone_blocks/large_sandstone_blocks_nor_gl_2k.jpg",
+          "size": 2517711,
+          "sha256": "4e07f92c151c202914c33f329a8c1c6123a6158c5c3a23db4df03c2ab309d340"
+        },
+        {
+          "path": "assets/textures/limestone/textures/large_sandstone_blocks_arm_2k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/large_sandstone_blocks/large_sandstone_blocks_arm_2k.jpg",
+          "size": 2581346,
+          "sha256": "a66a309322f96558f58f9eb3162d8c025c4cc950ab643b11253a5c81017ed921"
+        }
+      ]
+    },
+    {
+      "id": "clay_plaster",
+      "name": "plaster",
+      "type": "textures",
+      "license": "CC0-1.0",
+      "source": "https://polyhaven.com/a/clay_plaster",
+      "files": [
+        {
+          "path": "assets/textures/plaster/textures/clay_plaster_arm_2k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/clay_plaster/clay_plaster_arm_2k.jpg",
+          "size": 1449174,
+          "sha256": "bd9e6161c2ec8af153a9102587da07bd034d34a16ea30c105d809d1876f8e487"
+        },
+        {
+          "path": "assets/textures/plaster/textures/clay_plaster_diff_2k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/clay_plaster/clay_plaster_diff_2k.jpg",
+          "size": 1621557,
+          "sha256": "e7ed1892b319d8a1ddb8b95242cc8b9d627bd2a558ec107da174a463f3dbc561"
+        },
+        {
+          "path": "assets/textures/plaster/textures/clay_plaster_nor_gl_2k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/clay_plaster/clay_plaster_nor_gl_2k.jpg",
+          "size": 3241213,
+          "sha256": "126f8d299022ed26fa70e0fa213d2b34db58e1f9aced1ee571902b575dced754"
+        }
+      ]
+    },
+    {
+      "id": "rough_linen",
+      "name": "linen",
+      "type": "textures",
+      "license": "CC0-1.0",
+      "source": "https://polyhaven.com/a/rough_linen",
+      "files": [
+        {
+          "path": "assets/textures/linen/textures/rough_linen_spec_ior_2k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rough_linen/rough_linen_spec_ior_2k.jpg",
+          "size": 4824304,
+          "sha256": "542282f03c86694803178fe3d7510641a959d64a5a3ed3af39c0499dfb468908"
+        },
+        {
+          "path": "assets/textures/linen/textures/rough_linen_nor_gl_2k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rough_linen/rough_linen_nor_gl_2k.jpg",
+          "size": 3849356,
+          "sha256": "c5733ad50cfe0f90c546f3d4076590c1c78a4fd1a83c967cc9c92dc8175b99e6"
+        },
+        {
+          "path": "assets/textures/linen/textures/rough_linen_diff_2k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rough_linen/rough_linen_diff_2k.jpg",
+          "size": 3607181,
+          "sha256": "e71016e08dfebea1dd4e8a2a675e3b617a889a782af782f1abb795906f4db1b4"
+        },
+        {
+          "path": "assets/textures/linen/textures/rough_linen_arm_2k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rough_linen/rough_linen_arm_2k.jpg",
+          "size": 5194705,
+          "sha256": "c5f29705fc1843c15f48ca187bec1d8b61bccb5859cbbf9a8b793eb172f0593b"
+        }
+      ]
+    },
+    {
+      "id": "oak_wood_planks",
+      "name": "wood",
+      "type": "textures",
+      "license": "CC0-1.0",
+      "source": "https://polyhaven.com/a/oak_wood_planks",
+      "files": [
+        {
+          "path": "assets/textures/wood/textures/oak_wood_planks_nor_gl_2k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/oak_wood_planks/oak_wood_planks_nor_gl_2k.jpg",
+          "size": 2125233,
+          "sha256": "340a51d81e5ec2ead28a1c864637375becb00a1e11861e47a72dde4c03950968"
+        },
+        {
+          "path": "assets/textures/wood/textures/oak_wood_planks_diff_2k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/oak_wood_planks/oak_wood_planks_diff_2k.jpg",
+          "size": 2736142,
+          "sha256": "ec3d2deb1fe21150ede5f987b48c691b3c7dbffe4183850a9b8717e904917a46"
+        },
+        {
+          "path": "assets/textures/wood/textures/oak_wood_planks_arm_2k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/oak_wood_planks/oak_wood_planks_arm_2k.jpg",
+          "size": 4016413,
+          "sha256": "f8822f8c5d87e6408ba07207fa5c8d722f3681dc292b4bc5ca7af1d59bcf521e"
+        }
+      ]
+    },
+    {
+      "id": "bark_brown_02",
+      "name": "bark",
+      "type": "textures",
+      "license": "CC0-1.0",
+      "source": "https://polyhaven.com/a/bark_brown_02",
+      "files": [
+        {
+          "path": "assets/textures/bark/textures/bark_brown_02_rough_2k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/bark_brown_02/bark_brown_02_rough_2k.jpg",
+          "size": 1236654,
+          "sha256": "adafcab150c1ca99150c77198329e251437dc00fa1f66019f75624366926996e"
+        },
+        {
+          "path": "assets/textures/bark/textures/bark_brown_02_diff_2k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/bark_brown_02/bark_brown_02_diff_2k.jpg",
+          "size": 2356592,
+          "sha256": "285051e34826ace29f4ab438ad35cc1201b2aae0a6157a5f3c0bf6667bbc539e"
+        },
+        {
+          "path": "assets/textures/bark/textures/bark_brown_02_nor_gl_2k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/bark_brown_02/bark_brown_02_nor_gl_2k.jpg",
+          "size": 3707907,
+          "sha256": "aaba4529c3167a7811b4dbf5b4327d054a166c2fc8ea08ebd249a2692adace41"
+        }
+      ]
+    },
+    {
+      "id": "metal_plate",
+      "name": "metal",
+      "type": "textures",
+      "license": "CC0-1.0",
+      "source": "https://polyhaven.com/a/metal_plate",
+      "files": [
+        {
+          "path": "assets/textures/metal/textures/metal_plate_nor_gl_2k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/metal_plate/metal_plate_nor_gl_2k.jpg",
+          "size": 2516654,
+          "sha256": "146f8c00874a584bcc4a184643e72f160da2a7568d469198e02b26c9ff93cf43"
+        },
+        {
+          "path": "assets/textures/metal/textures/metal_plate_diff_2k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/metal_plate/metal_plate_diff_2k.jpg",
+          "size": 2670774,
+          "sha256": "864c9a653acd1f5034c9bbe7f955b18cc9687a81bbdfa805e7a2319939676910"
+        },
+        {
+          "path": "assets/textures/metal/textures/metal_plate_rough_2k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/metal_plate/metal_plate_rough_2k.jpg",
+          "size": 3045988,
+          "sha256": "3cdc139df4ec5b304dd986278c1fb026c67c42e6623f0ee5caa7f373d51c7bef"
+        }
+      ]
+    },
+    {
+      "id": "ceramic_vase_02",
+      "name": "pottery",
+      "type": "models",
+      "license": "CC0-1.0",
+      "source": "https://polyhaven.com/a/ceramic_vase_02",
+      "files": [
+        {
+          "path": "assets/models/pottery/ceramic_vase_02_1k.gltf",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/ceramic_vase_02/ceramic_vase_02_1k.gltf",
+          "size": 2716,
+          "sha256": "1bda047833b68c2c1b190ee53a55b1aa42d30748c84739909b6ca65b2f2d76c9"
+        },
+        {
+          "path": "assets/models/pottery/textures/ceramic_vase_02_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/ceramic_vase_02/ceramic_vase_02_nor_gl_1k.jpg",
+          "size": 164130,
+          "sha256": "29fc2dc6f236d29d403367517249a32c87eb7ce4b70d79ba9ee22d7571eb153f"
+        },
+        {
+          "path": "assets/models/pottery/textures/ceramic_vase_02_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/ceramic_vase_02/ceramic_vase_02_diff_1k.jpg",
+          "size": 98894,
+          "sha256": "12320e404c744095945b164293e522baadb6a0b393648f5908bfea2903f7fcc0"
+        },
+        {
+          "path": "assets/models/pottery/ceramic_vase_02.bin",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/ceramic_vase_02/ceramic_vase_02.bin",
+          "size": 293776,
+          "sha256": "b8e13a9fc140b563526afd11bb233d3a838f03abc779824504d89186dfaacd3a"
+        },
+        {
+          "path": "assets/models/pottery/textures/ceramic_vase_02_rough_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/ceramic_vase_02/ceramic_vase_02_rough_1k.jpg",
+          "size": 190645,
+          "sha256": "137ffbd61551654d94aebfd5f0b18fe9d85ed5c1515d32cca65c9db62fccd01b"
+        }
+      ],
+      "scene": "assets/models/pottery/ceramic_vase_02_1k.gltf"
+    },
+    {
+      "id": "ceramic_vase_03",
+      "name": "vase",
+      "type": "models",
+      "license": "CC0-1.0",
+      "source": "https://polyhaven.com/a/ceramic_vase_03",
+      "files": [
+        {
+          "path": "assets/models/vase/ceramic_vase_03_1k.gltf",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/ceramic_vase_03/ceramic_vase_03_1k.gltf",
+          "size": 2690,
+          "sha256": "72ea418ae3a761a651ea6bc4ce6daced649a2bd6c1c570227ba73af9e25d07f4"
+        },
+        {
+          "path": "assets/models/vase/textures/ceramic_vase_03_rough_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/ceramic_vase_03/ceramic_vase_03_rough_1k.jpg",
+          "size": 154214,
+          "sha256": "5db8b7b46da1c0354aec3ace7c3c0234c35211614d4cc82b5d1dd6257d11ada3"
+        },
+        {
+          "path": "assets/models/vase/textures/ceramic_vase_03_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/ceramic_vase_03/ceramic_vase_03_nor_gl_1k.jpg",
+          "size": 181966,
+          "sha256": "bf5afd92bcf977af46f2f279d8fc025ce1dd5f69f4205dc6ac2a97df1759d426"
+        },
+        {
+          "path": "assets/models/vase/ceramic_vase_03.bin",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/ceramic_vase_03/ceramic_vase_03.bin",
+          "size": 299232,
+          "sha256": "19ced3c9a4231e0e0f0d2693661e40db15590ad99b3c84feecaa19067311fa6b"
+        },
+        {
+          "path": "assets/models/vase/textures/ceramic_vase_03_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/ceramic_vase_03/ceramic_vase_03_diff_1k.jpg",
+          "size": 127057,
+          "sha256": "a939cd965fa2a3b5240e2c2a3cecdd404ae66542abb967d1ebcbdfa9657a0212"
+        }
+      ],
+      "scene": "assets/models/vase/ceramic_vase_03_1k.gltf"
+    },
+    {
+      "id": "wicker_basket_01",
+      "name": "basket",
+      "type": "models",
+      "license": "CC0-1.0",
+      "source": "https://polyhaven.com/a/wicker_basket_01",
+      "files": [
+        {
+          "path": "assets/models/basket/wicker_basket_01_1k.gltf",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/wicker_basket_01/wicker_basket_01_1k.gltf",
+          "size": 2792,
+          "sha256": "9ad86c33f00f46a18c9bc8bfc28c0036090ee819f7270d0028ec408512c04094"
+        },
+        {
+          "path": "assets/models/basket/textures/wicker_basket_01_arm_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wicker_basket_01/wicker_basket_01_arm_1k.jpg",
+          "size": 874111,
+          "sha256": "5150638cbcd8f1bc07b76af3b60b31a4c5e7d38ce66ac8906b9c3192f3283b9a"
+        },
+        {
+          "path": "assets/models/basket/textures/wicker_basket_01_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wicker_basket_01/wicker_basket_01_nor_gl_1k.jpg",
+          "size": 549218,
+          "sha256": "d06024a37ef330d05bf128b8488f72769af05e72d266ffbc810d7f09ea2b32f9"
+        },
+        {
+          "path": "assets/models/basket/textures/wicker_basket_01_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wicker_basket_01/wicker_basket_01_diff_1k.jpg",
+          "size": 679110,
+          "sha256": "15156c7855d5642f6bb594edfad5bcdcfe11f87f3e109956cb9e8fdb15fef921"
+        },
+        {
+          "path": "assets/models/basket/wicker_basket_01.bin",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/wicker_basket_01/wicker_basket_01.bin",
+          "size": 624920,
+          "sha256": "8e96025ffcdc64a7e75d1aa980f2491b1219912a4554272cd1e192a966c399f8"
+        }
+      ],
+      "scene": "assets/models/basket/wicker_basket_01_1k.gltf"
+    },
+    {
+      "id": "wicker_basket_02",
+      "name": "basket_round",
+      "type": "models",
+      "license": "CC0-1.0",
+      "source": "https://polyhaven.com/a/wicker_basket_02",
+      "files": [
+        {
+          "path": "assets/models/basket_round/wicker_basket_02_1k.gltf",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/wicker_basket_02/wicker_basket_02_1k.gltf",
+          "size": 4497,
+          "sha256": "78c7a3bdd7025eb092b3ac744e9d83e9a75fbb242696b5dce87ec215af617768"
+        },
+        {
+          "path": "assets/models/basket_round/textures/wicker_basket_02_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wicker_basket_02/wicker_basket_02_nor_gl_1k.jpg",
+          "size": 1041220,
+          "sha256": "d3de9d9ec34955ed866a819763eb323a0dee571f55b02f5b4c44b0fc34cf2376"
+        },
+        {
+          "path": "assets/models/basket_round/wicker_basket_02.bin",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/wicker_basket_02/wicker_basket_02.bin",
+          "size": 432572,
+          "sha256": "bd92d61a377879fa28c2bdb18fd0b0a42c42c7333c04e324f346b68689655fdb"
+        },
+        {
+          "path": "assets/models/basket_round/textures/wicker_basket_02_arm_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wicker_basket_02/wicker_basket_02_arm_1k.jpg",
+          "size": 718943,
+          "sha256": "641013be798757f4bf2c82cf335b80db2b6d2b52f8fbf0b1f1e2e22196bc60ee"
+        },
+        {
+          "path": "assets/models/basket_round/textures/wicker_basket_02_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wicker_basket_02/wicker_basket_02_diff_1k.jpg",
+          "size": 867277,
+          "sha256": "c03525c27579160bcd71054aa17796570a074ff4cdd560bfed3fb9770c9ba975"
+        }
+      ],
+      "scene": "assets/models/basket_round/wicker_basket_02_1k.gltf"
+    },
+    {
+      "id": "sand_rocks_small_01",
+      "name": "small_rocks",
+      "type": "models",
+      "license": "CC0-1.0",
+      "source": "https://polyhaven.com/a/sand_rocks_small_01",
+      "files": [
+        {
+          "path": "assets/models/small_rocks/sand_rocks_small_01_1k.gltf",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/sand_rocks_small_01/sand_rocks_small_01_1k.gltf",
+          "size": 2887,
+          "sha256": "8d5dd6fc49f00646f3df1cee18c731c72b843fc9d448830bac5f151180a63d0e"
+        },
+        {
+          "path": "assets/models/small_rocks/textures/sand_rocks_small_01_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/sand_rocks_small_01/sand_rocks_small_01_nor_gl_1k.jpg",
+          "size": 1008354,
+          "sha256": "764d7d9aa1229c0b4716da35b0e0d6cc769c2ce25e4854cc7bbd480dba42cc6c"
+        },
+        {
+          "path": "assets/models/small_rocks/textures/sand_rocks_small_01_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/sand_rocks_small_01/sand_rocks_small_01_diff_1k.jpg",
+          "size": 788042,
+          "sha256": "86f57a6fefdc145dd1a386917ae8a73dbcc9230e2eed276df03e930310cd1cd6"
+        },
+        {
+          "path": "assets/models/small_rocks/sand_rocks_small_01.bin",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/sand_rocks_small_01/sand_rocks_small_01.bin",
+          "size": 21253052,
+          "sha256": "77ea63c7cb39654b3e804f3b3a3dafdb5a39ff828192465276908dc3a963a44e"
+        },
+        {
+          "path": "assets/models/small_rocks/textures/sand_rocks_small_01_arm_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/sand_rocks_small_01/sand_rocks_small_01_arm_1k.jpg",
+          "size": 758948,
+          "sha256": "6b80000330bfe8710fca1210d1f4a6080f6abb3634294f834810da8e83b5d27b"
+        }
+      ],
+      "scene": "assets/models/small_rocks/sand_rocks_small_01_1k.gltf"
+    },
+    {
+      "id": "coast_rocks_02",
+      "name": "rocks",
+      "type": "models",
+      "license": "CC0-1.0",
+      "source": "https://polyhaven.com/a/coast_rocks_02",
+      "files": [
+        {
+          "path": "assets/models/rocks/coast_rocks_02_1k.gltf",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/coast_rocks_02/coast_rocks_02_1k.gltf",
+          "size": 2810,
+          "sha256": "493b65e80b120deb6634dd1315add9fafb656616f1e27502494b6878613855c0"
+        },
+        {
+          "path": "assets/models/rocks/textures/coast_rocks_02_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/coast_rocks_02/coast_rocks_02_diff_1k.jpg",
+          "size": 853844,
+          "sha256": "a1dc4e2d18679712dbab2e924eb2132a23ba8566b51734078fd2f62c2b78febe"
+        },
+        {
+          "path": "assets/models/rocks/coast_rocks_02.bin",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/coast_rocks_02/coast_rocks_02.bin",
+          "size": 35867060,
+          "sha256": "ed06872c8d06f415cde38f6093dc555b175e73b54838f8f16c163c9bdfca05be"
+        },
+        {
+          "path": "assets/models/rocks/textures/coast_rocks_02_arm_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/coast_rocks_02/coast_rocks_02_arm_1k.jpg",
+          "size": 785725,
+          "sha256": "ea492168ef17e3392974ae1b938f5c2b9297f00299e9450cab504332d8454e66"
+        },
+        {
+          "path": "assets/models/rocks/textures/coast_rocks_02_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/coast_rocks_02/coast_rocks_02_nor_gl_1k.jpg",
+          "size": 947627,
+          "sha256": "3d5f52a5e53e18c4e85b7928bfe3ea13b6250831a4a52768700f96ae58a8098a"
+        }
+      ],
+      "scene": "assets/models/rocks/coast_rocks_02_1k.gltf"
+    },
+    {
+      "id": "wooden_crate_01",
+      "name": "crate",
+      "type": "models",
+      "license": "CC0-1.0",
+      "source": "https://polyhaven.com/a/wooden_crate_01",
+      "files": [
+        {
+          "path": "assets/models/crate/wooden_crate_01_1k.gltf",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/wooden_crate_01/wooden_crate_01_1k.gltf",
+          "size": 5612,
+          "sha256": "fd9c6073acfc671e12b64666053f2805ae33aff5d3dbbcfe5c97c08c06644927"
+        },
+        {
+          "path": "assets/models/crate/textures/wooden_crate_01_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wooden_crate_01/wooden_crate_01_diff_1k.jpg",
+          "size": 711292,
+          "sha256": "16653f4abaf4c1d9bca94bde3bd8c54d0ea9a5298d1648abcf57de1f7ecc34cc"
+        },
+        {
+          "path": "assets/models/crate/textures/wooden_crate_01_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wooden_crate_01/wooden_crate_01_nor_gl_1k.jpg",
+          "size": 594076,
+          "sha256": "f4ea44c7dc1686123d337039cb713d74e8a2dbc6d1bd2beeac276d06f5df3fab"
+        },
+        {
+          "path": "assets/models/crate/wooden_crate_01.bin",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/wooden_crate_01/wooden_crate_01.bin",
+          "size": 189408,
+          "sha256": "85f381f8035f7a6f2f3b848640894c6d3333b261946dd8a338c0fe19e0bea21e"
+        },
+        {
+          "path": "assets/models/crate/textures/wooden_crate_01_arm_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wooden_crate_01/wooden_crate_01_arm_1k.jpg",
+          "size": 776699,
+          "sha256": "cd0b031c3924905e16ffd78ead062c2cc274148c4104d09635310097738b4679"
+        }
+      ],
+      "scene": "assets/models/crate/wooden_crate_01_1k.gltf"
+    },
+    {
+      "id": "human_base",
+      "type": "source",
+      "license": "CC0-1.0",
+      "source": "https://raw.githubusercontent.com/makehumancommunity/makehuman/master/makehuman/data/3dobjs/base.obj",
+      "files": [
+        {
+          "path": ".asset_sources/makehuman/base.obj",
+          "url": "https://raw.githubusercontent.com/makehumancommunity/makehuman/master/makehuman/data/3dobjs/base.obj",
+          "size": 1749303,
+          "sha256": "8e761e6624b8f54536409135d1636da63b32486a90d4897f84e121d144f6fb4c"
+        }
+      ]
+    },
+    {
+      "id": "human_rig",
+      "type": "source",
+      "license": "CC0-1.0",
+      "source": "https://raw.githubusercontent.com/makehumancommunity/makehuman/master/makehuman/data/rigs/default.mhskel",
+      "files": [
+        {
+          "path": ".asset_sources/makehuman/rig.json",
+          "url": "https://raw.githubusercontent.com/makehumancommunity/makehuman/master/makehuman/data/rigs/default.mhskel",
+          "size": 117790,
+          "sha256": "99f179bce0aa850b45d4191a1d0d234c5851f881c057439470ded3bddf729a24"
+        }
+      ]
+    },
+    {
+      "id": "human_weights",
+      "type": "source",
+      "license": "CC0-1.0",
+      "source": "https://raw.githubusercontent.com/makehumancommunity/makehuman/master/makehuman/data/rigs/default_weights.mhw",
+      "files": [
+        {
+          "path": ".asset_sources/makehuman/weights.json",
+          "url": "https://raw.githubusercontent.com/makehumancommunity/makehuman/master/makehuman/data/rigs/default_weights.mhw",
+          "size": 897521,
+          "sha256": "0f3641d651ae3d00ad6b4ccee43142edb109d3bd909d27d9e4139ef1beed8625"
+        }
+      ]
+    },
+    {
+      "id": "human_morph",
+      "type": "source",
+      "license": "CC0-1.0",
+      "source": "https://raw.githubusercontent.com/makehumancommunity/makehuman/master/makehuman/data/targets/macrodetails/african-male-young.target",
+      "files": [
+        {
+          "path": ".asset_sources/makehuman/male.target",
+          "url": "https://raw.githubusercontent.com/makehumancommunity/makehuman/master/makehuman/data/targets/macrodetails/african-male-young.target",
+          "size": 406170,
+          "sha256": "894abc1fbb3d28543a51fef16f89d5d4bdf9aa2e1534413339811a3d47818b7d"
+        }
+      ]
+    },
+    {
+      "id": "human_eyes",
+      "type": "source",
+      "license": "CC0-1.0",
+      "source": "https://raw.githubusercontent.com/makehumancommunity/makehuman/master/makehuman/data/eyes/high-poly/high-poly.obj",
+      "files": [
+        {
+          "path": ".asset_sources/makehuman/eyes.obj",
+          "url": "https://raw.githubusercontent.com/makehumancommunity/makehuman/master/makehuman/data/eyes/high-poly/high-poly.obj",
+          "size": 100882,
+          "sha256": "da2493215b708a344c33dc72f2a9a5b8fa985dcc5a70ad3b208995cf871da8e1"
+        }
+      ]
+    },
+    {
+      "id": "eye_texture",
+      "type": "source",
+      "license": "CC0-1.0",
+      "source": "https://raw.githubusercontent.com/makehumancommunity/makehuman/master/makehuman/data/eyes/materials/brown_eye.png",
+      "files": [
+        {
+          "path": "assets/textures/characters/brown_eye.png",
+          "url": "https://raw.githubusercontent.com/makehumancommunity/makehuman/master/makehuman/data/eyes/materials/brown_eye.png",
+          "size": 610817,
+          "sha256": "4659691c7295ad6206c78b003e5fd0e5f91dcd53032fa914a229bb48cabe424b"
+        }
+      ]
+    },
+    {
+      "id": "makehuman_license",
+      "type": "source",
+      "license": "CC0-1.0",
+      "source": "https://raw.githubusercontent.com/makehumancommunity/makehuman/master/LICENSE.ASSETS.md",
+      "files": [
+        {
+          "path": "assets/licenses/makehuman-cc0.txt",
+          "url": "https://raw.githubusercontent.com/makehumancommunity/makehuman/master/LICENSE.ASSETS.md",
+          "size": 6962,
+          "sha256": "f6089cba01cb570a24712b41ab8a586ccd3cc5ef53dc266ca50b95c288956d2c"
+        }
+      ]
+    },
+    {
+      "id": "manrope",
+      "type": "source",
+      "license": "OFL-1.1",
+      "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/manrope/Manrope%5Bwght%5D.ttf",
+      "files": [
+        {
+          "path": "assets/fonts/manrope.ttf",
+          "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/manrope/Manrope%5Bwght%5D.ttf",
+          "size": 164700,
+          "sha256": "3ae11c49db0455a3cc33e37d380f20fdb8c7f8b41dc07625c177e3d87a9d6ae6"
+        }
+      ]
+    },
+    {
+      "id": "manrope_license",
+      "type": "source",
+      "license": "OFL-1.1",
+      "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/manrope/OFL.txt",
+      "files": [
+        {
+          "path": "assets/licenses/manrope-ofl.txt",
+          "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/manrope/OFL.txt",
+          "size": 4387,
+          "sha256": "58172e0c0fac2cda8a37b348164bb55e44b0e69051e557e92b1d3f6910141f7b"
+        }
+      ]
+    },
+    {
+      "id": "cinzel",
+      "type": "source",
+      "license": "OFL-1.1",
+      "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/cinzel/Cinzel%5Bwght%5D.ttf",
+      "files": [
+        {
+          "path": "assets/fonts/cinzel.ttf",
+          "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/cinzel/Cinzel%5Bwght%5D.ttf",
+          "size": 125468,
+          "sha256": "f4d83d34d1f6c741193e4acf4b3dff9531e5a67b6aa65228d00a7db72a4e0f34"
+        }
+      ]
+    },
+    {
+      "id": "cinzel_license",
+      "type": "source",
+      "license": "OFL-1.1",
+      "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/cinzel/OFL.txt",
+      "files": [
+        {
+          "path": "assets/licenses/cinzel-ofl.txt",
+          "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/cinzel/OFL.txt",
+          "size": 4383,
+          "sha256": "f2b3029aba64c378bf0963b62945eee15e564fe4330b934c8f2eb058282b5e83"
+        }
+      ]
+    },
+    {
+      "id": "makehuman_system_assets",
+      "type": "archive",
+      "license": "CC0-1.0",
+      "source": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+      "files": [
+        {
+          "path": ".asset_sources/makehuman/system_assets.zip",
+          "url": "https://files.makehumancommunity.org/asset_packs/makehuman_system_assets/makehuman_system_assets_cc0.zip",
+          "size": 280737770,
+          "sha256": "b542127a8e25547c7c29c19f2d1d2adb9a664c80396ecd694095dbc8028a0107"
+        },
+        {
+          "path": "assets/textures/characters/skin_dark.png",
+          "url": "https://files.makehumancommunity.org/asset_packs/makehuman_system_assets/makehuman_system_assets_cc0.zip#skins/young_african_male/young_darkskinned_male_diffuse.png",
+          "size": 2976491,
+          "sha256": "e3f0dbb634e4c68561338f0087f7a122444e84ec56df102212f1222aa12e4d50"
+        },
+        {
+          "path": "assets/textures/characters/skin_light.png",
+          "url": "https://files.makehumancommunity.org/asset_packs/makehuman_system_assets/makehuman_system_assets_cc0.zip#skins/young_caucasian_male/young_lightskinned_male_diffuse.png",
+          "size": 3693828,
+          "sha256": "862a26e335e958b70534cb5f0d7c47ef30ab148a56c42b3e9da969cf76f12963"
+        }
+      ]
+    }
+  ]
+}
